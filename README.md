@@ -1,5 +1,4 @@
 📌 Overview
-
 This project contains a simple Bash script (check.sh) that checks if the current user has root privileges.
 It demonstrates the use of environment variables and conditional statements in Bash.
 
